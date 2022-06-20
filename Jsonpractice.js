@@ -1,10 +1,10 @@
 // JavaScript source code
-//Jsonƒf[ƒ^
+//JsonÆ’fÂ[Æ’^
 let member = {
     "memberId": 1,
     "membername": "Tanaka Hanako",
-    "age":20
+    "age":25
 }
 
-document.writeln("–¼‘O:" + member.membername);
-document.writeln("”N—î:" + member.age);
+document.writeln("â€“Â¼â€˜O:" + member.membername);
+document.writeln("â€Nâ€”Ã®:" + member.age);
